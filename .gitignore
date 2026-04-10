@@ -1,0 +1,15 @@
+.vscode/
+
+# Backend
+scalable backend/.env
+scalable backend/*.log
+scalable backend/*.err
+scalable backend/__pycache__/
+scalable backend/.pytest_cache/
+scalable backend/.venv/
+
+# Frontend
+Lab Scheduling System Design - Frontend/.env
+Lab Scheduling System Design - Frontend/node_modules/
+Lab Scheduling System Design - Frontend/dist/
+Lab Scheduling System Design - Frontend/.vite/
