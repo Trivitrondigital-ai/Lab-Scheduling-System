@@ -4,7 +4,7 @@
 scalable backend/.env
 scalable backend/*.log
 scalable backend/*.err
-scalable backend/__pycache__/
+scalable backend/**/__pycache__/
 scalable backend/.pytest_cache/
 scalable backend/.venv/
 
